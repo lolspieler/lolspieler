@@ -28,9 +28,6 @@
 
 ### Projects
 
-**[LolOS](https://github.com/lolspieler/lolos-packete)**
-Arch-based Linux distribution with its own package repository and installer.
-
 **[linux-autoclicker](https://github.com/lolspieler/linux-autoclicker)**
 Lightweight autoclicker for Linux, available as a LolOS package.
 
