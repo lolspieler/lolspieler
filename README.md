@@ -2,8 +2,6 @@
 
 <br>
 
-**Python developer on Linux.**
-
 <br>
 
 ### Tech
