@@ -9,7 +9,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" />&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" height="36" alt="Linux" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=arch" height="36" alt="Arch" />&nbsp;
   <img src="https://skillicons.dev/icons?i=bash" height="36" alt="Bash" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />
