@@ -2,7 +2,7 @@
 
 <br>
 
-**Python developer on Linux.** I build my own Arch-based distribution, desktop tools and small games.
+**Python developer on Linux.**
 
 <br>
 
@@ -29,7 +29,7 @@
 ### Projects
 
 **[linux-autoclicker](https://github.com/lolspieler/linux-autoclicker)**
-Lightweight autoclicker for Linux, available as a LolOS package.
+Lightweight autoclicker for Linux
 
 **[proxyswitch](https://github.com/lolspieler/proxyswitch)**
 Proxy switcher for Linux and Windows.
